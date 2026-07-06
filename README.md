@@ -1,6 +1,6 @@
 # Détection de review bombing sur Steam Reviews
 
-Réalisé par Rostom SAMAR — Master 1 Expert en Intelligence Artificielle
+Réalisé par Rostom SAMAR et Denis POPESCU — Master 1 Expert en Intelligence Artificielle
 
 Projet de data science couvrant une chaîne complète : collecte, stockage, ETL, analyse exploratoire, machine learning (supervisé et non supervisé) et interface de démonstration, appliquée à la détection d'épisodes de review bombing dans les avis Steam.
 
