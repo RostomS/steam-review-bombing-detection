@@ -1,0 +1,10 @@
+# Donnees volumineuses, regenerables via scripts/ (voir README.md section 11)
+data/
+
+# Environnements et caches Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
